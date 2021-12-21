@@ -5,7 +5,7 @@
 - I can speak in english-us and portuguese-br languages.
 # If you want to contact me you can send me a message on Telegram:
 @Yandrall
-(or my e-mail: yandrareset@gmail.com)
+(or send me an e-mail: yandrareset@gmail.com)
 
 <!---
 DrayanInterfaceDesigner/DrayanInterfaceDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
