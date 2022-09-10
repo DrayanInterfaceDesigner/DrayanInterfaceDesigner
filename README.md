@@ -1,11 +1,16 @@
 # 👋 Hi, I’m @DrayanInterfaceDesigner
 - I love coding/programming and ofc, making UI's.
-- I'm a "designer" (still in Uni), and i do things like that since i was 12yo.
+- I'm a hobbist designer.
+- Studying Computer Science at PUC-PR, Brazil.
 
-- I can speak in english-us and portuguese-br languages.
+- English / Portuguese.
+
 # If you want to contact me you can send me a message on Telegram:
 @Yandrall
-(or send me an e-mail: yandrareset@gmail.com)
+
+or send me an e-mail: 
+      > drayanreset@gmail.com *personal, business
+      > drayan.magalhaes@pucpr.edu.br *projects, academic
 
 <!---
 DrayanInterfaceDesigner/DrayanInterfaceDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
