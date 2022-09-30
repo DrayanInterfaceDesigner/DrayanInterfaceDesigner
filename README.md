@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @DrayanInterfaceDesigner
 - I love coding/programming and ofc, making UI's.
-- I'm a hobbist designer.
+- I'm a hobbyist designer.
 - Studying Computer Science at PUC-PR, Brazil.
 
 - English / Portuguese.
