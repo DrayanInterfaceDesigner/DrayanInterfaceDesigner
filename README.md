@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @DrayanInterfaceDesigner
+# 👋 Hi, I’m Drayan Silva Magalhães
 - I love coding/programming and ofc, making UI's.
 - I'm a hobbyist designer.
 - Studying Computer Science at PUC-PR, Brazil.
