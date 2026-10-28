@@ -6,10 +6,7 @@
 
 - English / Portuguese.
 
-# If you want to contact me you can send me a message on Telegram:
-@Yandrall
-
-or send me an e-mail: 
+send me an e-mail: 
       > yandrereset@gmail.com *personal, business
       > drayan.magalhaes@pucpr.edu.br *projects, academic
 
