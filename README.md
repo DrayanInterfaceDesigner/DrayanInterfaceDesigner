@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Drayan Silva Magalhães
 - I love coding/programming and ofc, making UI's.
+- ML/CV Researcher
 - I'm a hobbyist designer.
 - Studying Computer Science at PUC-PR, Brazil.
 
