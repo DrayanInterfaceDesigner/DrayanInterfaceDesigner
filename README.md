@@ -10,7 +10,7 @@
 @Yandrall
 
 or send me an e-mail: 
-      > drayanreset@gmail.com *personal, business
+      > yandrereset@gmail.com *personal, business
       > drayan.magalhaes@pucpr.edu.br *projects, academic
 
 <!---
